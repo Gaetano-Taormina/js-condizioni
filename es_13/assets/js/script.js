@@ -3,7 +3,7 @@ console.log ("funziona") ;
 let nome ;
 
 do {
-    nome = prompt ("inserire il tuo nome: ") ;
+    nome = prompt ("inserire nome dell'utente: ") ;
     if (!nome) {
         alert ("non hai inserito nessun nome") ;
     }
