@@ -9,5 +9,5 @@ do {
     }
 } while (!nome) ;
 
-console.log ("il nome dell'utente è: " + nome) ;
+console.log ("il nome dell'utente è: ", nome) ;
 
