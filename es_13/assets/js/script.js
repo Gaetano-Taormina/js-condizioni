@@ -1,5 +1,5 @@
 // script.js
-console.log ("funziona") ;
+console.log ("JS collegato correttamente") ;
 let nome ;
 
 do {
