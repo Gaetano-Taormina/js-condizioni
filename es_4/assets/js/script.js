@@ -1,6 +1,6 @@
 ﻿console.log("JS collegato correttamente");
 
-l("dichiarare l'età dell'utente: ") ;
+let eta = prompt("dichiarare l'età dell'utente: ") ;
 eta = Number(eta) ;
 
 if (eta < 14) {
