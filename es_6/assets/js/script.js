@@ -4,7 +4,7 @@ let tessera = prompt ("Hai la tessera? (si/no)") ;
 
 tessera = tessera.trim().toLowerCase() ;
 
-if (tessera === "si") {
+if (tessera === "si" || tessera === "sì") {
     tessera = 1 ;
 } else {
     tessera = 0 ;
