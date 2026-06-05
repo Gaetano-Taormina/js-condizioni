@@ -4,18 +4,19 @@
 
 ## Ragionamento
 
-* leggi Genere dell' utente ;
-* dichiarazione di due array per M e F ;
-  * ottenimento del genere tramite includes dentro un if;
+* inizializzazione di genere
+* do
+  * leggi genere da utente;
+  * dichiarazione di due array per M e F ;
   * se array M include;
     * g ottiene M come valore
   * altrimenti se array F include;
     * g ottiene F come Valore;
 
-* do while per correggere l'utente in caso di termini incorretti per il genere;
+* while per correggere l'utente in caso di termini incorretti per il genere;
 
 * leggi eta utente ;
-  * se genere === M && eta >= 67 || genere === F && eta >= 62
-    * stampa puoi andare in pensione ;
-  * else
-    * stampa Devi ancora lavorare.
+* se genere === M && eta >= 67 || genere === F && eta >= 62
+  * stampa puoi andare in pensione ;
+* else
+  * stampa Devi ancora lavorare.
