@@ -12,7 +12,6 @@
     * g ottiene M come valore
   * altrimenti se array F include;
     * g ottiene F come Valore;
-
 * while per correggere l'utente in caso di termini incorretti per il genere;
 
 * leggi eta utente ;
