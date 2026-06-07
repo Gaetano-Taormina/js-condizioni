@@ -22,7 +22,7 @@
 
 ---
 
-# Exercise
+## Exercise
 
 * Ask the age and gender ("M" or "F"). If it is a man and has >= 67 years or a woman and has >= 62 years, print "You can retire", otherwise "You still have to work".
 

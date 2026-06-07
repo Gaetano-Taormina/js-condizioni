@@ -17,7 +17,7 @@
 
 ---
 
-# Exercise
+## Exercise
 * An amusement park requires a minimum height of 140cm and at least 14 years of age for the rollercoaster. Ask the user for this data and print if they can access the rollercoaster.
 
 ## Reasoning v1.0

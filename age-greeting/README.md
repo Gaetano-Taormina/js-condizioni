@@ -9,7 +9,7 @@
 
 ---
 
-# Exercise
+## Exercise
 * Ask the user's age. If minor print "Hi", if over 60 print "Greetings", otherwise print "Welcome".
 
 ## Reasoning 

@@ -12,7 +12,7 @@
 
 ---
 
-# Exercise
+## Exercise
 * Ask for a grade from 1 to 10. Print "Insufficient" if < 6, "Sufficient" if between 6 and 7, "Good" if between 8 and 9, "Excellent" if 10.
 
 ## Reasoning

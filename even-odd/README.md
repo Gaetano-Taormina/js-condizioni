@@ -9,7 +9,7 @@
 
 ---
 
-# Exercise
+## Exercise
 * Ask the user for a number. Print if it is even or odd.
 
 ## Reasoning

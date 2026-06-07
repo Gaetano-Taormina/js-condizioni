@@ -12,7 +12,7 @@
 
 ---
 
-# Exercise
+## Exercise
 
 - The ticket cost is 36 €. Ask the luggage weight in kg. If the weight exceeds 23kg, there is a 20 € surcharge, finally print the ticket price.
 

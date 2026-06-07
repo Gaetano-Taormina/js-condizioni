@@ -8,7 +8,7 @@
 
 ---
 
-# Exercise
+## Exercise
 * Ask the user what day it is today. If it is "saturday" or "sunday" print "Have a good weekend!", otherwise print "Have a good day at work".
 
 ## Reasoning 

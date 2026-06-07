@@ -11,7 +11,7 @@ Chiedi quante ore si resta nel parcheggio. Se sono <= 2 ore costa 5€, se sono 
 
 ---
 
-# Exercise
+## Exercise
 
 Ask how many hours you stay in the parking lot. If <= 2 hours it costs 5€, if <= 5 hours it costs 10€, otherwise it costs 15€.
 

@@ -9,7 +9,7 @@
 
 ---
 
-# Exercise
+## Exercise
 * Ask the user's age via prompt. If the user is an adult, print "Access granted to the club" to the console.
 
 ## Reasoning
