@@ -21,3 +21,4 @@ Ask how many hours you stay in the parking lot. If <= 2 hours it costs 5€, if 
 * if hours > 5 print cost 15 euros
   * otherwise if hours > 2 print cost 10
   * otherwise cost 5
+
