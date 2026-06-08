@@ -19,4 +19,3 @@
 * read username and password
 * if username == admin && password == "1234" print Login successful
   * otherwise print Invalid credentials
-

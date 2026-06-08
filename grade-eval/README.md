@@ -27,4 +27,3 @@
   * otherwise if n < 8 print sufficient
     * otherwise if n < 10 print good
       * otherwise print excellent
-

@@ -39,4 +39,3 @@
 
 * after checking age and finding the minimum age, request height
   * if height is under 140 cm declare the user's lack of requirements
-

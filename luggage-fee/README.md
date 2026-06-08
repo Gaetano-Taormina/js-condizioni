@@ -23,4 +23,3 @@
 - ask the luggage weight
 - read the luggage weight
   - if luggage weight exceeds 23 kg add 20 euros to the ticket price
-

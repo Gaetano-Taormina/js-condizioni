@@ -1,6 +1,6 @@
-## esercizio
+# Esercizio
 
- * Gaetano:
+* Gaetano:
 Chiedi all'utente di inserire il suo nome. Verifica che non abbia lasciato il campo vuoto.
 
 ## Risoluzione
@@ -14,9 +14,9 @@ Chiedi all'utente di inserire il suo nome. Verifica che non abbia lasciato il ca
 
 ---
 
-## Exercise
+# Exercise
 
- * Gaetano:
+* Gaetano:
 Ask the user to enter their name. Verify that they have not left the field empty.
 
 ## Reasoning
@@ -27,4 +27,3 @@ Ask the user to enter their name. Verify that they have not left the field empty
     * point it out to the user
 * go back in case of missing name
 * give the user's name as a result
-

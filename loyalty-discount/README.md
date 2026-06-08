@@ -21,4 +21,3 @@
 * read price
 * if loyalty card exists so loyaltyCard=1 apply discount
 * print the final price
-

@@ -21,4 +21,3 @@
 * read number
 * if even print even
   * else print odd
-

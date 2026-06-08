@@ -19,4 +19,3 @@
 * read the user's age
 * if user is an adult print message
 * else windows.open('','self') to open and window.close() to close the window for minors
-

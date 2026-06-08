@@ -21,4 +21,3 @@
 * if minor print hi
   * if over 60 print greetings
     * otherwise print welcome
-
