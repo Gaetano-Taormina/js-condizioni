@@ -14,7 +14,7 @@ Chiedi all'utente di inserire il suo nome. Verifica che non abbia lasciato il ca
 
 ---
 
-# Exercise
+## Exercise
 
 * Gaetano:
 Ask the user to enter their name. Verify that they have not left the field empty.
